@@ -1,0 +1,17 @@
+#black-border{
+    border: solid black 5px;
+    margin: 50px 50px 0px;
+    padding: 0px 0px 20px 0px;
+}
+
+#main-title{
+    background-color: green;
+    margin: 0px;
+    padding: 5px;
+    font-size: 30px;
+    color: white;
+}
+
+#List-of-Names{
+    margin: 0px 30px;
+}
